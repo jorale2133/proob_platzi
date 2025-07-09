@@ -1,4 +1,5 @@
 # proob_platzi
+
 Repositorio para la clase de platzi
 
 Mi pirmera contribución local para github
@@ -11,4 +12,4 @@ Nueva actualización.
 
 Cambio para probra fetch
 
-Caambios desde mi rama local....developer_01
+Cambios desde mi rama local....developer_01. [EOF]
