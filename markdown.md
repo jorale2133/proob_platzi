@@ -4,12 +4,12 @@
 gitGraph
     commit
     commit
-    branch develop
-    checkout develop
+    branch develop_01
+    checkout develop_01
     commit
     commit
     checkout main
-    merge develop
+    merge develop_01
     commit
     commit
 ```
